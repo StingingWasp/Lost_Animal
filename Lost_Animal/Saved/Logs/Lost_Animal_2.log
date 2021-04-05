@@ -864,3 +864,43 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.05-12.56.22:977][922]LogDirectoryWatcher: A directory notification failed for '../../Plugins/Runtime/AudioSynesthesia/Content/' because it could not be accessed. Aborting watch request...
 [2021.04.05-12.56.25:764][930]LogDirectoryWatcher: A directory notification failed for '../../Plugins/Runtime/PostSplashScreen/Content/' because it could not be accessed. Aborting watch request...
 [2021.04.05-12.57.19:787][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.04.05-13.01.34:107][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.04.05-13.01.34:796][ 86]LogTexture: Display: Building textures: Texture2D_385 (BGRA8, 512X512)
+[2021.04.05-13.01.34:796][ 86]LogStaticMesh: Building static mesh billboard...
+[2021.04.05-13.01.34:817][ 86]LogStaticMesh: Built static mesh [0.03s] /Game/PhotoR_Backgrounds/Meshes/billboard.billboard
+[2021.04.05-13.01.35:191][ 86]LogTexture: Display: Building textures: billboard_tree_d (AutoDXT, 1024X1024)
+[2021.04.05-13.01.35:191][ 86]LogTexture: Display: Building textures: billboard_tree_n (DXT1, 1024X1024)
+[2021.04.05-13.01.35:191][ 86]LogTexture: Display: Building textures: landscape_splat (AutoDXT, 2048X2048)
+[2021.04.05-13.01.41:973][ 86]LogTexture: Display: Building textures: grass_fall_a_n (BC5, 2048X2048)
+[2021.04.05-13.01.41:974][ 86]LogTexture: Display: Building textures: SM_grass_c_d (AutoDXT, 2048X2048)
+[2021.04.05-13.01.41:979][ 86]LogTexture: Display: Building textures: SM_grass_c_n (BC5, 2048X2048)
+[2021.04.05-13.01.41:979][ 86]LogTexture: Display: Building textures: SM_ground_gravel_b_n (BC5, 2048X2048)
+[2021.04.05-13.01.41:979][ 86]LogTexture: Display: Building textures: snow_terrain_n (BC5, 4096X4096)
+[2021.04.05-13.01.42:195][ 86]LogTexture: Display: Building textures: SM_ground_gravel_b_d (AutoDXT, 2048X2048)
+[2021.04.05-13.01.42:195][ 86]LogTexture: Display: Building textures: grass_fall_a_d (AutoDXT, 2048X2048)
+[2021.04.05-13.01.49:979][ 86]LogTexture: Display: Building textures: SM_sand_pebbles_a_n (BC5, 2048X2048)
+[2021.04.05-13.01.49:979][ 86]LogTexture: Display: Building textures: SM_sand_pebbles_a_d (AutoDXT, 2048X2048)
+[2021.04.05-13.01.50:043][ 86]LogMaterial: Display: Missing cached shader map for material summer_terrain, compiling. 
+[2021.04.05-13.01.50:153][ 86]LogMaterial: Display: Missing cached shader map for material summer_terrain, compiling. 
+[2021.04.05-13.01.50:190][ 86]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.04.05-13.01.50:190][ 86]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.04.05-13.01.50:190][ 86]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.04.05-13.01.50:407][ 86]LogStaticMesh: Building static mesh PR_background_D_E1...
+[2021.04.05-13.01.50:511][ 86]LogStaticMesh: Built static mesh [0.10s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_E1.PR_background_D_E1
+[2021.04.05-13.01.50:850][ 86]LogTexture: Display: Building textures: pr_background_mountain_d_SPLAT (AutoDXT, 4096X4096)
+[2021.04.05-13.01.50:850][ 86]LogStaticMesh: Building static mesh PR_background_D_E2...
+[2021.04.05-13.01.51:062][ 86]LogStaticMesh: Built static mesh [0.21s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_E2.PR_background_D_E2
+[2021.04.05-13.01.51:430][ 86]LogStaticMesh: Building static mesh PR_background_D_N1...
+[2021.04.05-13.01.51:564][ 86]LogStaticMesh: Built static mesh [0.14s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_N1.PR_background_D_N1
+[2021.04.05-13.01.51:786][ 86]LogStaticMesh: Building static mesh PR_background_D_N2...
+[2021.04.05-13.01.51:890][ 86]LogStaticMesh: Built static mesh [0.11s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_N2.PR_background_D_N2
+[2021.04.05-13.01.52:237][ 86]LogStaticMesh: Building static mesh PR_background_D_S1...
+[2021.04.05-13.01.52:422][ 86]LogStaticMesh: Built static mesh [0.19s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_S1.PR_background_D_S1
+[2021.04.05-13.01.52:817][ 86]LogStaticMesh: Building static mesh PR_background_D_S2...
+[2021.04.05-13.01.52:971][ 86]LogStaticMesh: Built static mesh [0.15s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_S2.PR_background_D_S2
+[2021.04.05-13.01.53:336][ 86]LogStaticMesh: Building static mesh PR_background_D_W1...
+[2021.04.05-13.01.53:484][ 86]LogStaticMesh: Built static mesh [0.16s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_W1.PR_background_D_W1
+[2021.04.05-13.01.53:705][ 86]LogStaticMesh: Building static mesh PR_background_D_W2...
+[2021.04.05-13.01.53:800][ 86]LogStaticMesh: Built static mesh [0.10s] /Game/PhotoR_Backgrounds/Meshes/360d_Horizon/Mountain_d/PR_background_D_W2.PR_background_D_W2
+[2021.04.05-13.01.53:875][ 86]LogStaticMesh: Building static mesh template...
+[2021.04.05-13.01.54:090][ 86]LogStaticMesh: Built static mesh [0.22s] /Game/PhotoR_Backgrounds/Meshes/template.template
