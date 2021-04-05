@@ -792,3 +792,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.05-12.52.38:656][ 13]LogSlate: Window 'Plugins' being destroyed
 [2021.04.05-12.52.38:662][ 13]LogSlate: Window 'Plugins' being destroyed
 [2021.04.05-12.52.38:662][ 13]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.04.05-12.53.06:488][394]LogSlate: Window 'New Level' being destroyed
+[2021.04.05-12.53.06:504][394]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.05-12.53.06:517][394]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.05-12.53.06:538][394]LightingResults: New page: Lighting Build
+[2021.04.05-12.53.06:538][394]LoadErrors: New page: Loading map: Template_Default.umap
+[2021.04.05-12.53.06:548][394]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-12.53.06:550][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-12.53.06:551][394]MapCheck: New page: Map Check
+[2021.04.05-12.53.06:551][394]LightingResults: New page: Lighting Build
+[2021.04.05-12.53.06:561][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-12.53.06:578][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.05-12.53.06:607][394]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.04.05-12.53.06:609][394]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.04.05-12.53.06:610][394]LogAIModule: Creating AISystem for world Untitled_1
+[2021.04.05-12.53.06:624][394]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.05-12.53.06:637][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.04.05-12.53.06:646][394]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.05-12.53.06:647][394]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.166ms to complete.
+[2021.04.05-12.53.06:647][394]LogFileHelpers: Loading map 'Template_Default' took 0.143
+[2021.04.05-12.53.18:301][557]LogSlate: Window 'Save Level As' being destroyed
+[2021.04.05-12.53.18:364][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/NewMap" FILE="../../../../Lost_Animal/Lost_Animal/Content/ThirdPersonBP/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.05-12.53.18:374][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.05-12.53.18:402][557]LogSavePackage: Moving '../../../../Lost_Animal/Lost_Animal/Saved/NewMapA2485E7141287A5CD73315B43FA05CCB.tmp' to '../../../../Lost_Animal/Lost_Animal/Content/ThirdPersonBP/Maps/NewMap.umap'
+[2021.04.05-12.53.18:420][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/NewMap_BuiltData" FILE="../../../../Lost_Animal/Lost_Animal/Content/ThirdPersonBP/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2021.04.05-12.53.18:441][557]LogSavePackage: Moving '../../../../Lost_Animal/Lost_Animal/Saved/NewMap_BuiltData3272B0894BAC16C036F591A0CD69C3D7.tmp' to '../../../../Lost_Animal/Lost_Animal/Content/ThirdPersonBP/Maps/NewMap_BuiltData.uasset'
+[2021.04.05-12.53.18:451][557]LogFileHelpers: Saving map 'NewMap' took 0.125
+[2021.04.05-12.53.18:451][557]Cmd: MAP LOAD FILE="../../../../Lost_Animal/Lost_Animal/Content/ThirdPersonBP/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.05-12.53.18:470][557]LightingResults: New page: Lighting Build
+[2021.04.05-12.53.18:471][557]LoadErrors: New page: Loading map: NewMap.umap
+[2021.04.05-12.53.18:471][557]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.05-12.53.18:471][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.05-12.53.18:471][557]MapCheck: New page: Map Check
+[2021.04.05-12.53.18:471][557]LightingResults: New page: Lighting Build
+[2021.04.05-12.53.18:478][557]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.05-12.53.18:480][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.05-12.53.18:488][557]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2021.04.05-12.53.18:489][557]LogAIModule: Creating AISystem for world NewMap
+[2021.04.05-12.53.18:492][557]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.05-12.53.18:505][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.05-12.53.18:512][557]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.05-12.53.18:512][557]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2021.04.05-12.53.18:512][557]LogFileHelpers: Loading map 'NewMap' took 0.061
+[2021.04.05-12.53.18:518][557]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.05-12.53.18:518][557]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/NewMap.NewMap
+[2021.04.05-12.53.18:518][557]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/NewMap_BuiltData.NewMap_BuiltData
+[2021.04.05-12.53.33:436][960]LogContentBrowser: Attempting asset rename: NewMap -> Level_1
+[2021.04.05-12.53.33:574][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level_1_BuiltData" FILE="../../../../Lost_Animal/Lost_Animal/Content/ThirdPersonBP/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2021.04.05-12.53.33:591][960]LogSavePackage: Moving '../../../../Lost_Animal/Lost_Animal/Saved/Level_1_BuiltData05DB98B84DD4EBE6A739748360FF236A.tmp' to '../../../../Lost_Animal/Lost_Animal/Content/ThirdPersonBP/Maps/Level_1_BuiltData.uasset'
+[2021.04.05-12.53.33:592][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level_1" FILE="../../../../Lost_Animal/Lost_Animal/Content/ThirdPersonBP/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.05-12.53.33:598][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.05-12.53.33:606][960]LogSavePackage: Moving '../../../../Lost_Animal/Lost_Animal/Saved/Level_1B86F1444470FE2318B9FE1A3AE68AED8.tmp' to '../../../../Lost_Animal/Lost_Animal/Content/ThirdPersonBP/Maps/Level_1.umap'
+[2021.04.05-12.53.33:609][960]LogFileHelpers: Saving map 'Level_1' took 0.017
+[2021.04.05-12.53.33:676][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.05-12.53.33:683][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.04.05-12.53.33:696][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.04.05-12.53.33:702][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.05-12.53.33:731][960]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.05-12.53.33:731][960]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level_1.Level_1
+[2021.04.05-12.53.33:731][960]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2021.04.05-12.53.36:403][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
